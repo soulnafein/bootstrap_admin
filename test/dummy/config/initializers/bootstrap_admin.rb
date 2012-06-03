@@ -1,0 +1,2 @@
+BootstrapAdmin.setup do 
+end
